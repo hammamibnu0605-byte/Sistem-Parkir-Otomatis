@@ -103,7 +103,7 @@ Total Pendapatan: Rp 5000
 
 Tautan Video Penjelasan
 Video YouTube Penjelasan Proyek:
-"....................."
+"https://youtu.be/GE7Zwf8XH7c"
 
 Cara Menjalankan Program
 1. Clone repositori
